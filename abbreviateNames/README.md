@@ -1,0 +1,3 @@
+Link : https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3
+
+The problem was that a function is set up to take a name that contains both the first and last name. The function needed to return the first letter of the first and last name separated by a period and both uppercase. For the first step it seemed like a good idea to split the first and last name apart. This was done using .split to separate the names into an array. The next step was to grab the first letter of each of the names. This was done using .charAt(0) to grab that first letter. Then finally we returned both the letters separated by a period and also a .toUpperCase to make sure that the letters were uppercase once returned.
