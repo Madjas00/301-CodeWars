@@ -1,0 +1,3 @@
+The problem for this challenge was that the array was in a reverse order and it had to be reversed back around to get
+the array items in the correct order. Our function was set to take in an array. So now that we have the array
+we just need to reverse it, and to do that it's as easy as arr.reverse(). So now that we have an array that's in the correct order now we just need to return it and everything is good to go.
