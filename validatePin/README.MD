@@ -1,0 +1,1 @@
+The problem for this challenge was that we need to take in a pin number. The pin can only contain numbers and have exactly 4 or 6 of them. To validate this we need to use regular expressions. We use regular expressions to tell it that we only accept 0-9 and to have exactly 4 or 6. To figure this out I used the website regexr.com to test out the possible solutions.
