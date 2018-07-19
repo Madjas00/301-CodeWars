@@ -1,0 +1,1 @@
+The problem for this challenge was to take a string into a function. We then take the string and return a reversed version of it. To solve this problem we first put the string into an array that split up all the letters. We then reversed it using the reverse() method. Then we returned it with the join() method to turn it back into a string. That was able to solve this challenge.
