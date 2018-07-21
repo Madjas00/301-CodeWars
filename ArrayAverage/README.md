@@ -1,0 +1,1 @@
+For this challenge a function needed to take in an array of numbers. It then needs to add them all together and then find the average. To add up the array I used the .reduce method. Once I found the total of the array I just divided it by the length of the array. This was able to solve the challenge.
