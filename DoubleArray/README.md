@@ -1,0 +1,1 @@
+The problem for this challenge was that we needed to take in an array into a function. We then needed to go through each number in the array and double it. To solve this we first created a copy of the array using the .map method. We then went through each number in the array and muliplied it by 2. This solved the challenge.
